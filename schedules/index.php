@@ -62,7 +62,7 @@ td {padding-right:30px;}
 
 <blockquote>
 
-<p><a href="print/ETS%20schedule%2021-July-2014.pdf">Download ETS schedule PDF (updated July 21, 2014)</a> (requires <a href="http://en.wikipedia.org/wiki/List_of_PDF_software">software to open PDF documents</a>)</p>
+<p><a href="print/eureka_transit_schedule.PNG">Download ETS schedule (printed format, PNG image)</a></p>
 </blockquote>
 
 

@@ -1,0 +1,133 @@
+[07-Nov-2013 11:23:45 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[07-Nov-2013 11:23:45 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[07-Nov-2013 11:23:46 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[07-Nov-2013 11:23:46 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[08-Nov-2013 09:20:54 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[08-Nov-2013 09:20:54 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[08-Nov-2013 10:46:00 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[08-Nov-2013 10:46:00 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[09-Nov-2013 06:22:16 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[09-Nov-2013 06:22:17 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Dec-2013 18:09:31 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[23-Dec-2013 14:47:39 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Dec-2013 14:47:39 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Dec-2013 15:50:08 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Dec-2013 15:50:08 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Dec-2013 15:50:38 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Dec-2013 15:50:38 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[25-Dec-2013 07:12:57 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[29-Dec-2013 09:43:45 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[29-Dec-2013 09:43:45 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[02-Jan-2014 11:09:23 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[02-Jan-2014 11:09:23 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[02-Jan-2014 11:36:06 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[02-Jan-2014 11:36:06 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[03-Jan-2014 08:24:34 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[03-Jan-2014 08:24:34 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[03-Jan-2014 08:25:18 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[03-Jan-2014 08:25:18 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[03-Jan-2014 12:00:05 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[03-Jan-2014 12:00:05 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[08-Jan-2014 20:15:24 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[09-Jan-2014 11:42:42 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[12-Jan-2014 12:53:01 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[18-Jan-2014 10:23:31 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[23-Jan-2014 06:08:05 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Jan-2014 06:08:06 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Jan-2014 06:43:07 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Jan-2014 06:43:07 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Jan-2014 06:50:56 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Jan-2014 06:50:56 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Jan-2014 06:50:57 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Jan-2014 06:50:57 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:19 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:19 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:19 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:19 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:20 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:20 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:20 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:20 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:21 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:21 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:04:21 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:04:21 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 19:10:41 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 19:10:41 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 19:37:45 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 19:37:45 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 06:30:25 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 06:30:25 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 06:42:01 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 06:42:01 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 09:52:41 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 09:52:41 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 10:51:35 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 10:51:36 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 11:11:45 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 11:11:45 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 11:17:35 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 11:17:35 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/eureka/public_html/mysql_connect.php on line 28
+[02-Mar-2014 00:11:37 America/Los_Angeles] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/eureka/public_html/news.php on line 6
+[16-Mar-2014 12:38:23 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[16-Mar-2014 12:38:23 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[16-Mar-2014 12:38:31 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[16-Mar-2014 12:38:31 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[16-Mar-2014 20:43:09 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[16-Mar-2014 20:43:09 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[19-Mar-2014 11:50:25 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[19-Mar-2014 11:50:25 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[19-Mar-2014 19:50:21 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[19-Mar-2014 19:50:21 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[19-Mar-2014 21:02:06 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[19-Mar-2014 21:02:06 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[19-Mar-2014 21:02:24 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[19-Mar-2014 21:02:30 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[21-Mar-2014 16:06:29 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[21-Mar-2014 16:06:29 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[22-Mar-2014 10:25:24 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[22-Mar-2014 10:25:24 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[22-Mar-2014 10:47:27 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[22-Mar-2014 10:47:27 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28

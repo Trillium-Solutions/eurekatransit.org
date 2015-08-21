@@ -1,0 +1,90 @@
+[20-Dec-2013 12:08:09 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[20-Dec-2013 12:08:09 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[20-Dec-2013 12:08:09 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[20-Dec-2013 12:08:09 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[20-Dec-2013 12:08:09 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Dec-2013 15:50:04 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Dec-2013 15:50:04 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Dec-2013 15:50:04 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Dec-2013 15:50:04 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Dec-2013 15:50:04 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[26-Dec-2013 11:03:59 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[26-Dec-2013 11:03:59 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[26-Dec-2013 11:03:59 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[26-Dec-2013 11:03:59 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[26-Dec-2013 11:03:59 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Jan-2014 06:49:24 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[23-Jan-2014 06:49:24 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[23-Jan-2014 06:49:24 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Jan-2014 06:49:24 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[23-Jan-2014 06:49:24 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 08:27:56 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 08:27:56 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 08:27:56 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 08:27:56 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 08:27:56 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 13:06:06 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 13:06:06 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 13:06:06 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 13:06:06 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 13:06:06 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 16:04:23 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 16:04:23 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 16:04:23 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 16:04:23 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 16:04:23 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 20:03:17 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[27-Jan-2014 20:03:17 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[27-Jan-2014 20:03:17 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 20:03:17 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[27-Jan-2014 20:03:17 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:18:21 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 09:18:21 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 09:18:21 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:18:21 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:18:21 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:27:04 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[04-Feb-2014 09:27:04 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[04-Feb-2014 09:27:04 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:27:04 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[04-Feb-2014 09:27:04 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[16-Mar-2014 20:43:33 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[16-Mar-2014 20:43:33 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[16-Mar-2014 20:43:33 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[16-Mar-2014 20:43:33 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[16-Mar-2014 20:43:33 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[21-Mar-2014 16:06:35 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[21-Mar-2014 16:06:35 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[21-Mar-2014 16:06:35 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[21-Mar-2014 16:06:35 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[21-Mar-2014 16:06:35 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:17 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[22-Mar-2014 10:09:19 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[22-Mar-2014 10:09:19 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:19 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:19 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:41 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[22-Mar-2014 10:09:41 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[22-Mar-2014 10:09:41 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:41 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:09:41 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:25:28 America/Los_Angeles] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/eureka/public_html/mysql_connect.php on line 12
+[22-Mar-2014 10:25:28 America/Los_Angeles] PHP Notice:  Could not connect to MySQL!
+<br />MySQL Error: Too many connections in /home/eureka/public_html/mysql_connect.php on line 28
+[22-Mar-2014 10:25:28 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:25:28 America/Los_Angeles] PHP Warning:  include(./includes/footer.html) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/eureka/public_html/mysql_connect.php on line 29
+[22-Mar-2014 10:25:28 America/Los_Angeles] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening './includes/footer.html' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/eureka/public_html/mysql_connect.php on line 29

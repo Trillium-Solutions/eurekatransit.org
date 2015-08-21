@@ -1,0 +1,53 @@
+<?php # Script 13.1 - header.html
+// This page begins the HTML header for the site.
+
+// Start output buffering.
+ob_start();
+// Initialize a session.
+session_start();
+
+// Check for a $page_title value.
+if (!isset($page_title)) {
+	$page_title = 'Redwood Transit System';
+}
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<link rel="icon" type="image/png" href="http://www.hta.org/images/icon.png"/>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<title><?php echo $page_title; ?></title>
+	<link href="http://www.eurekatransit.org/css/main.css" rel="stylesheet" type="text/css" media="all" />
+
+
+<?php
+echo '<style type="text/css" media="all">';
+
+echo 'body {margin:8px}';
+
+echo '#green_bar_header {background-color: #2e3192; border-top: 2px solid black; color:#fff; padding:1px; text-align: center; margin:0px; width:100%; font-size:17px; margin-bottom:6px;}';
+
+
+if (isset($css)) {echo $css;}
+
+echo '</style>';
+
+?>
+
+</head>
+<body>
+
+
+<?php
+
+echo '<h1 id="green_bar_header">'.$page_title.'</h1>';
+
+?>
+
+
+
+
+
+<div id="Content">
+<!-- End of Header -->

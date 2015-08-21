@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+<link rel="icon" type="image/png" href="http://www.hta.org/images/icon.png"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Eureka Transit Service map</title>
+<style type="text/css" media="screen">  body {
+margin:0;
+padding:0;
+height:100%;
+}
+#map{width: 75%; height: 95%;position:absolute;left:0;top:0; } 
+#right_bar {width:22%; height:100%;position:absolute;right:0;top:0;padding:14px;}</style>
+<LINK href="http://www.valleymetro.org/Includes/style/default.css" type="text/css" rel="stylesheet">
+
+<script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAtMnWGmIz_Lxo5I8zLfj34BT-tIaTNb6TKhhzft9M6BUga79M1xQUPsGqQn76PP_gWMld7pC7ZtBgBw"></script>
+    <script type="text/javascript">
+    //<![CDATA[
+var map;
+var bounds = new GLatLngBounds;
+
+
+var gold = new GGeoXml('http://www.eurekatransit.org/map/gold.kmz'); 
+
+var green = new GGeoXml('http://www.eurekatransit.org/map/green.kmz'); 
+
+var purple = new GGeoXml('http://www.eurekatransit.org/map/purple.kmz'); 
+
+var red = new GGeoXml('http://www.eurekatransit.org/map/red.kmz');
+
+
+
+function toggleRoute(box,route) {
+  if (box.checked) {
+    map.addOverlay(route);
+  } else {
+    map.removeOverlay(route);
+  }
+
+}
+
+
+function load() {
+  var latlng = new GLatLng(40.7861, -124.161);
+  
+  map = new GMap2(document.getElementById("map"));
+  map.setCenter(latlng, 11);
+
+
+map.addControl(new GMapTypeControl());
+map.addControl(new GLargeMapControl());
+
+bounds.extend (new GLatLng (40.8053, -124.125));
+bounds.extend (new GLatLng (40.755, -124.194));
+
+map.setZoom(map.getBoundsZoomLevel(bounds));
+map.setCenter(bounds.getCenter());
+
+ 
+
+map.addOverlay(purple);
+map.addOverlay(green);
+map.addOverlay(gold);
+map.addOverlay(red);
+
+
+
+}
+
+
+
+
+ //]]>
+    </script>
+
+    <body onload="load();" onunload="GUnload()">
+
+
+
+
+<div id="map"></div>
+     
+<div id="right_bar" style="overflow:auto;height:95%">
+<a href="http://www.eurekatransit.org/"><img src="../images/ets_logo.gif" width="206" height="81" border="0"></a>
+
+<h2>Eureka Transit Service map</h2>
+
+<p><a href="../schedules/">Go to schedules</a></p>
+
+<p><input type="checkbox" id="RedCheckbox" onclick="toggleRoute(this,red);"  checked="checked"/> Red route
+<br/><input type="checkbox" id="GreenCheckbox" onclick="toggleRoute(this,green);" checked="checked" /> Green route
+<br/><input type="checkbox" id="GoldCheckbox" name="gold" onclick="toggleRoute(this,gold);" checked="checked"/> Gold route
+<br/><input type="checkbox" id="PurpleCheckbox" onclick="toggleRoute(this,purple);" checked="checked" /> Purple route
+</p>
+
+<p>Printable PDF maps:
+<br/><a href="Weekday%20ETS%20Map.pdf">Weekday ETS Routes</a>
+<br/><a href="Saturday%20ETS%20Map.pdf">Saturday ETS Routes</a>
+</p>
+
+</div></body>
+</html>

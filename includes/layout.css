@@ -1,0 +1,99 @@
+body {
+	margin:0px;
+	padding:0px;
+	font-family:verdana, arial, helvetica, sans-serif;
+	color:#333;
+	background-color:white;
+	}
+	
+h1 {
+	margin:0px 0px 15px 0px;
+	padding:0px;
+	font-size:28px;
+	line-height:28px;
+	font-weight:900;
+	color:#ccc;
+	}
+	
+p {
+	font:11px/18px verdana, arial, helvetica, sans-serif;
+	padding:0px;
+	}
+
+table {
+	font:11px/20px verdana, arial, helvetica, sans-serif;border:0px;
+	}
+	
+td {padding:1px}
+th
+{
+	padding: 2px;
+	font-weight: 900;
+	text-align: left;
+	align: left;
+}
+
+a {
+	color:#09c;
+	font-size:11px;
+	text-decoration:none;
+	font-weight:600;
+	font-family:verdana, arial, helvetica, sans-serif;
+	}
+	
+a:link { color: #06C; }
+
+a:visited { color: #06C; }
+
+a:hover {background-color:#eee;}
+
+#Header
+{
+	font-size: 24px;
+	margin: 35px 0px 10px 0px;
+	padding: 17px 0px 0px 20px;
+	/* For IE5/Win's benefit height = [correct height] + [top padding] + [top and bottom border widths] */
+	height: 33px;
+	/* 14px + 17px + 2px = 33px */
+	border-style: solid;
+	border-color: black;
+	border-width: 1px 0px;
+	/* top and bottom borders: 1px; left and right borders: 0px */
+	line-height: 11px;
+	background-color: #CFC;
+	/* Here is the ugly brilliant hack that protects IE5/Win from its own stupidity. 
+Thanks to Tantek Celik for the hack and to Eric Costello for publicizing it. 
+IE5/Win incorrectly parses the "\"}"" value, prematurely closing the style 
+declaration. The incorrect IE5/Win value is above, while the correct value is 
+below. See http://glish.com/css/hacks.asp for details. */
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	height: 14px;
+	/* the correct height */
+}
+/* I've heard this called the "be nice to Opera 5" rule. Basically, it feeds correct 
+length values to user agents that exhibit the parsing error exploited above yet get 
+the CSS box model right and understand the CSS2 parent-child selector. ALWAYS include
+a "be nice to Opera 5" rule every time you use the Tantek Celik hack (above). */
+body>#Header {height:14px;}
+
+#Content {
+	padding:0px 0px 0px 20px;
+	}
+
+#Menu {
+	position:absolute;
+	top:46px;
+	right:20px;
+/* Again, the ugly brilliant hack. */
+	voice-family: "\"}\"";
+	voice-family:inherit;
+	}
+
+
+#Error {
+	color:#FF0033;
+	font-size:14px;
+	}
+
+.form_element_name {font-weight:bold;font-size:16px}
